@@ -51,13 +51,13 @@ if __name__ == '__main__':
         required=True
     )
     p.add_argument(
-        '-p',
+        '-n',
         '--passes',
         type=int,
         default=1,
     )
     p.add_argument(
-        '-r',
+        '-z',
         '--rand',
         action='store_true',
     )
