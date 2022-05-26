@@ -1,3 +1,5 @@
-# Shred (détruire efficacement un fichier)
+# Shred (effectively destroy a file)
 
-Permet d'écraser le contenu d'un fichier un certain nombre de fois pour éviter toute récupération après sa suppression
+_Based on the principle of the Linux command of the same name_
+
+Allows to overwrite the contents of a file a certain number of times to avoid any recovery after its deletion
